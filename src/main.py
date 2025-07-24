@@ -45,6 +45,8 @@ def main() -> None:
     # from stock_price_alert import app
     # app.run()
 
+def build_ui() -> None:
+    
 
 if __name__ == "__main__":
     main()
